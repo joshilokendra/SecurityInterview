@@ -1,0 +1,3 @@
+1. What is CORS & SOP?
+2. Is it possible to mitigate CSRF issue via CORS mechanism?
+3. How to allow two domains in Access Control Allow Origin?
